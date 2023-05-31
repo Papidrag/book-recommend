@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="configuration.xsl"?>
+<configuration>
+<property>
+	<name>mapreduce.framework.name</name>
+	<value>yarn</value>
+</property>
+<property>
+	<name>mapreduce.app-submission.cross-platform</name>
+	<value>true</value>
+</property>
+<property>
+	<name>mapreduce.job.jar</name>
+	<value>C:\Users\cxx\Desktop\grms\target\grms.jar</value>
+</property>
+</configuration>
